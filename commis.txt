@@ -1,0 +1,17 @@
+commit 017f965721a687df6af339b753dabac3d290d90c
+Author: juan <andres18qp03@gmail.com>
+Date:   Mon Mar 14 16:54:45 2016 -0500
+
+    se agrego a la imagen primera
+
+commit 3efd01ce2b035c00127910fe6570d407176ec26c
+Author: juan <andres18qp03@gmail.com>
+Date:   Mon Mar 14 16:53:21 2016 -0500
+
+    se borro la primera imagen
+
+commit ab919ddbbbb97c3dd34115984f766108bc080004
+Author: juan <andres18qp03@gmail.com>
+Date:   Mon Mar 14 16:33:37 2016 -0500
+
+    Iniciamos
